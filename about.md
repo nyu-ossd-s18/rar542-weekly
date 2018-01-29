@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Raphael Rios and I am a senior studying Computer Science and Math.
 
 ### More Information
 
